@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Alex Smith"],
+    "categories": ["AI", "Machine Learning"],
+    "description": "A deep dive into the latest advancements in AI and what we can expect in the coming years."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["Maria Garcia", "John Doe"],
+    "categories": ["Web Development", "Scalability"],
+    "description": "Learn the best practices for building web applications that can handle millions of users."
+  },
+  {
+    "title": "The Power of a Well-Designed API",
+    "speakers": ["Chen Wei"],
+    "categories": ["API", "Backend"],
+    "description": "Explore the principles of good API design and how it can impact your product's success."
+  },
+  {
+    "title": "Cybersecurity in the Modern Age",
+    "speakers": ["David Johnson"],
+    "categories": ["Cybersecurity", "Networking"],
+    "description": "An overview of the current cybersecurity landscape and how to protect your systems from threats."
+  },
+  {
+    "title": "Introduction to Quantum Computing",
+    "speakers": ["Emily White"],
+    "categories": ["Quantum Computing", "Science"],
+    "description": "A beginner-friendly introduction to the mind-bending world of quantum computing."
+  },
+  {
+    "title": "UX/UI Design for Developers",
+    "speakers": ["Sarah Green", "Tom Brown"],
+    "categories": ["UX", "UI", "Design"],
+    "description": "Practical tips and tricks for developers to improve the user experience of their applications."
+  }
+]
